@@ -3,7 +3,7 @@ git branch
 git checkout new
 vi file2.txt
 git add .
-git commit -m " write something"
+git commit -m " new branch "
 git checkout master
 git merge new
 git log
