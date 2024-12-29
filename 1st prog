@@ -1,0 +1,7 @@
+mkdir folder name
+cd folder name
+git init
+touch file1.txt
+git add .
+git commit -m "write something"
+git log 
