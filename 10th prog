@@ -1,0 +1,1 @@
+git log --author="krishna" --since="30/12/2024" --until="01/01/2025"
