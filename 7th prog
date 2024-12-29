@@ -1,3 +1,9 @@
+mkdir krishnna
+cd krishna
+git init
+vi krishna1.txt
+git add .
+git commit -m "git tagges"
 git tag v1.0
 git show v1.0
 gti tag v1.1
