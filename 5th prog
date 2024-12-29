@@ -1,0 +1,10 @@
+mkdir krishna
+cd krishna
+git init
+vi file5.txt
+git add .
+git commit -m " say somthing"
+cd my project
+git fetch origin
+git rebase origin
+git log 
