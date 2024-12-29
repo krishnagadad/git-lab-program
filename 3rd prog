@@ -1,0 +1,9 @@
+git branch new
+git checkout new
+vi file3.txt
+git stash
+git checkout master
+git stash apply
+git add .
+git commit -m " stash changed "
+git log
