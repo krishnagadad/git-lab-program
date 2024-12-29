@@ -1,0 +1,9 @@
+git branch new
+git branch
+git checkout new
+vi file2.txt
+git add .
+git commit -m " write something"
+git checkout master
+git merge new
+git log
