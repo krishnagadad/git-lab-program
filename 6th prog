@@ -1,8 +1,8 @@
+mkdir clone
+cd clone
+git clone (past URL)
 git branch feature-branch
 git checkout feature-branch
-vi file5.txt
-git add file5.txt
-git commit -m "feature branch changed into master"
-git checkout master
-git merge feature-branch
+vi krishna.txt
+git commit -m "commit"
 git log
