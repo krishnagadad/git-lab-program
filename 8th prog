@@ -1,3 +1,14 @@
+cs riya 
+git branch source-branch 
+git checkout source-branch
+vi file.text
+git add .
+git commit -m "file created"
+vi file.text
+git add .
+git commit -m "SB editied"
+gir log 
+
 git checkout main
 git cherry-pick (past commit id)   //example : krishna4.txt
 git log
